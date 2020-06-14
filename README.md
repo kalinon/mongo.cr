@@ -37,7 +37,7 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 mongo:
-  github: datanoise/mongo.cr
+  github: kalinon/mongo.cr
   branch: master
 ```
 
